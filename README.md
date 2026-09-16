@@ -1,15 +1,11 @@
-# Hi there, I'm Aryan! 👋
+# 🚀 Hi there, I'm Aryan!
 
-I'm an aspiring developer currently preparing for a B.Sc. Information Technology program, transitioning my focus toward building software and understanding complex systems.
+I'm a developer preparing for my B.Sc. (CSO), with a heavy focus on backend engineering, networking, and security. I am fascinated by how technology works under the hood and love building heavy-duty software from scratch to understand the architecture behind it.
 
-## 🎯 Why I'm becoming a developer
-I am fascinated by the architecture of technology and how things work under the hood. My passion lies in logical problem-solving—whether that involves conceptualizing the engineering behind next-generation hardware or writing the backend code that makes a website function. I want to build things from the ground up.
+### 🛠️ What I'm working on right now
+* 🐍 **Backend & Security:** Engineering custom Python tools (TCP Port Scanners, Brute-Force simulators, and automation scripts) instead of relying on pre-built software.
+* ⚙️ **Core Logic:** Leveling up in socket programming, algorithm design, and computational problem-solving.
+* 🌍 **Languages:** Studying German to prepare for future international tech opportunities.
 
-## 🛠️ What I'm working on
-* Leveling up my web development skills using **HTML, CSS, and JavaScript**.
-* Focusing on backend development and the logic of data organization.
-* Building portfolio projects to showcase my technical abilities.
-* Studying **German** to prepare for future international opportunities.
-
-## ⚡ Outside of coding
-When I'm not writing code or studying, I'm usually figuring out boss fight patterns in high-difficulty games like Elden Ring and Sekiro.
+### 🎮 Outside of coding
+When I'm not debugging Python or studying, I'm usually figuring out boss fight patterns in high-difficulty games like *Elden Ring* and *Sekiro*. (Because if coding doesn't punish me enough, Hidetaka Miyazaki will).
